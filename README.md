@@ -11,6 +11,7 @@ User Authentication – Secure login/signup for posting and managing listings.
 Admin Panel – Moderates posts and ensures authenticity.
 
 Technologies used
+
 Frontend: HTML, CSS, JavaScript (React.js)
 
 Backend: Node.js, Express.js
